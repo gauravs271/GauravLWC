@@ -1,0 +1,31 @@
+div{
+    color:blue;
+}
+#a{
+    font-size:30;
+    color:red;
+}
+#b{
+    font-size: 50;
+    color:aqua;
+}
+#c{
+    font-size: 50;
+    color:blueviolet;
+}
+#d{
+    font-size:50;
+    color:brown;
+}
+#e{
+    font-size:50;
+    color:chartreuse;
+}
+#f{
+    font-size:50;
+    color:darkgreen;
+}
+.para{
+    color:darkkhaki;
+    border: 10px solid green;
+}
